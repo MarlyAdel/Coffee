@@ -5,6 +5,11 @@ This project demonstrates modern frontend practices such as **dynamic routing, a
 
 ---
 
+## 🔗 Live Demo  
+👉 [View Coffero Website](https://coffee-five-dusky.vercel.app/)  
+
+---
+
 ## 🚀 Features  
 
 - ⚡ **Next.js 13 App Router** – optimized and structured architecture.  
@@ -22,3 +27,4 @@ This project demonstrates modern frontend practices such as **dynamic routing, a
 - **Framework**: Next.js 13  
 - **Styling**: Tailwind CSS  
 - **Animations**: Framer Motion  
+
